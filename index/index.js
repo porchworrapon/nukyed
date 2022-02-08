@@ -8,3 +8,4 @@ function heavycalculate(a,b) {
 }
 const result = heavycalculate(1,2);
 console.log(result)
+//nukyed roilo
